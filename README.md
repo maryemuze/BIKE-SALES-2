@@ -34,8 +34,10 @@ The analysis results are summarized as follows:
 - Highest purchase rate for 0-1 miles commute distance.
 - Middle-aged customers are the largest segment of bike purchasers.
 ## Visualization
+![Excel Dashboard 1](https://github.com/maryemuze/BIKE-SALES-2/assets/169688768/a31380c8-831d-4ea3-9f9d-82b16fdec10d)
 
 ## Recommendations
+
 Here are some recommendations to improve sales based on this analysis:
 1. Focus on Middle-Aged Customers: The highest number of bike purchases are made by middle-aged individuals.
 Recommendation: Prioritize marketing efforts towards middle-aged customers. Highlight the health benefits, stress relief, and enjoyment that biking can bring to their daily lives.
